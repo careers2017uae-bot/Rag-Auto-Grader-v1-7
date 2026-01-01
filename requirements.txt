@@ -1,20 +1,22 @@
-# Web Framework
-streamlit
+# Core Framework
+streamlit>=1.30.0
 
-# Data Handling & Export
-pandas
-numpy
-openpyxl
-
-# Neural Grading Engine & NLP
-sentence-transformers
-scikit-learn
-requests
-torch
+# AI & NLP Libraries
+sentence-transformers>=2.6.0
+scikit-learn>=1.4.0
+numpy>=1.24.0
+pandas>=2.0.0
+openpyxl>=3.1.0
 
 # Document Processing
-pdfplumber
-docx2txt
+pdfplumber>=0.10.3
+docx2txt>=0.8
 
-# Visualization
-matplotlib
+# HTTP & API Integration
+requests>=2.31.0
+
+# Data Visualization (Optional)
+matplotlib>=3.7.0
+
+# Development Utilities
+pillow>=10.0.0  # For image handling if needed
