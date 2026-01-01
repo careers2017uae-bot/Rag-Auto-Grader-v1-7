@@ -1,0 +1,20 @@
+# Web Framework
+streamlit
+
+# Data Handling & Export
+pandas
+numpy
+openpyxl
+
+# Neural Grading Engine & NLP
+sentence-transformers
+scikit-learn
+requests
+torch
+
+# Document Processing
+pdfplumber
+docx2txt
+
+# Visualization
+matplotlib
